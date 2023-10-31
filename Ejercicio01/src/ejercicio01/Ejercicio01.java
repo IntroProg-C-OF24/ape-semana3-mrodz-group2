@@ -14,5 +14,7 @@ public class Ejercicio01 {
                 variable5 + Math.sqrt(variable6);
         //Resultado listo, el error estaba en variable6 = 81 era el valor que deseabamos
              System.out.println(resultado);
+             
+             // Por Marco Abarca Rodríguez
     }
 }

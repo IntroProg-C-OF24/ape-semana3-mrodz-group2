@@ -11,7 +11,8 @@ public class Ejercicio04 {
            System.out.println("Respuesta en boolean: "+ Respuesta);
            int RespuestaNum ;
                RespuestaNum = (var/(var1+var2))+var3 ;
-           System.out.println("Respuesta correcta es: "+ RespuestaNum);
+           System.out.println("Porque el valor es: "+ RespuestaNum);
+           // Autor: Marco Abarca Rodríguez
     }
     }
             
@@ -20,4 +21,3 @@ public class Ejercicio04 {
      
     
     
-}
