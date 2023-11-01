@@ -31,7 +31,7 @@ public class Ejercicio07 {
         System.out.println("Por lo tanto si "+ op3 +" es un valor numerico, no podemos determinar su posicion de verdadero o falso en conjuncion con la disyuncion que obtuvimos previamente, es decir ("+ disy +")");
         //Este ejercicio no tiene solucion porque la opcion 1 y la opcion2 dan resultado numerico y la tercera respuesta nos da en true or false.
         
-        //AUTORes: LADY ROBALINO , Marco Abarca
+        //AUTOR: LADY ROBALINO 
         
         
     }
